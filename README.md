@@ -1,4 +1,4 @@
-## 🛠️ Setup Instructions for Next.js + TypeScript Project
+## 🛠️ Setup Instructions for Next.js React Project
 
 Follow these steps to set up the project locally:
 
