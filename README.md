@@ -68,6 +68,9 @@ npm run lint
 ### Desktop View (Less)
 ![Desktop View Less](public/images/desktopviewless.png)
 
+### Desktop View (Drop down)
+![Desktop View Less](public/images/desktopviewdrop.png)
+
 ### Tablet View
 ![Tablet View](public/images/tabletview.png)
 
