@@ -69,10 +69,11 @@ npm run lint
 ![Desktop View Less](public/images/desktopviewless.png)
 
 ### Desktop View (Drop down)
-![Desktop View Less](public/images/desktopviewdrop.png)
+![Desktop View drop](public/images/desktopviewdrop.png)
 
 ### Tablet View
 ![Tablet View](public/images/tabletview.png)
 
 ### Mobile View (Less)
-![Mobile View Less](public/images/mobile-viewless.png)
+![Mobile View Less]<img src="path/to/image.png" width="300" />
+
