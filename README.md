@@ -63,7 +63,7 @@ npm run lint
 ![Desktop View](public/images/desktopview.png)
 
 ### Desktop View (More)
-![Desktop View More](public/images/deskyopviewmore.png)
+![Desktop View More](public/images/desktopviewmore.png)
 
 ### Desktop View (Less)
 ![Desktop View Less](public/images/desktopviewless.png)
@@ -72,4 +72,4 @@ npm run lint
 ![Tablet View](public/images/tabletview.png)
 
 ### Mobile View (Less)
-![Mobile View Less](public/images/mobile-viewles.png)
+![Mobile View Less](public/images/mobile-viewless.png)
