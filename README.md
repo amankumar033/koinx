@@ -60,16 +60,16 @@ npm run lint
 ## Screenshots
 
 ### Desktop View (Full)
-![Desktop View](/images/desktopview.png)
+![Desktop View](public/images/desktopview.png)
 
 ### Desktop View (More)
-![Desktop View More](/images/deskyopviewmore.png)
+![Desktop View More](public/images/deskyopviewmore.png)
 
 ### Desktop View (Less)
-![Desktop View Less](/images/desktopviewless.png)
+![Desktop View Less](public/images/desktopviewless.png)
 
 ### Tablet View
-![Tablet View](/images/tabletview.png)
+![Tablet View](public/images/tabletview.png)
 
 ### Mobile View (Less)
-![Mobile View Less](/images/mobile-viewles.png)
+![Mobile View Less](public/images/mobile-viewles.png)
