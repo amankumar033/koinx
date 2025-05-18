@@ -48,4 +48,28 @@ npm start
 ```bash
 npm run lint
 ```
+## Features
 
+- Fully **Responsive Design** for Desktop, Tablet, and Mobile views  
+- **View Less / View More** toggles to control content visibility  
+- Interactive **Dropdown** and **Dropup** menus for better UX  
+- Clean UI with smooth transitions and animations
+
+---
+
+## Screenshots
+
+### Desktop View (Full)
+![Desktop View](/images/desktopview.png)
+
+### Desktop View (More)
+![Desktop View More](/images/deskyopviewmore.png)
+
+### Desktop View (Less)
+![Desktop View Less](/images/desktopviewless.png)
+
+### Tablet View
+![Tablet View](/images/tabletview.png)
+
+### Mobile View (Less)
+![Mobile View Less](/images/mobile-viewles.png)
