@@ -75,5 +75,5 @@ npm run lint
 ![Tablet View](public/images/tabletview.png)
 
 ### Mobile View (Less)
-![Mobile View Less]<img src="path/to/image.png" width="300" />
+![Mobile View Less]<img src="public/images/mobile-viewless.png" width="300" />
 
